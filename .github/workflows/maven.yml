@@ -6,8 +6,8 @@ name: Java TEST with Maven
 on:
   push:
     branches: 
-    - feature_**
-    - !main
+    - 'feature_**'
+    - '!main'
 
 jobs:
   build:
