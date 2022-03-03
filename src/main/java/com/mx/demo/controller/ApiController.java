@@ -18,7 +18,7 @@ public class ApiController {
     @ApiOperation("一般功能")
     @GetMapping("/exec")
     public String exec(String msg){
-        return "try :"+msg;
+        return msg;
     }
 
     @ApiOperation("打印错误日志")
