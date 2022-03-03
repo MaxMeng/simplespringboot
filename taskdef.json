@@ -1,5 +1,6 @@
 {
   "ipcMode": null,
+  "executionRoleArn": "arn:aws:iam::439659027068:role/MXTASKDEFSTACK-MXTASKDEFSTACKMXFARGATETASKDEF0301E-1E40MV0XXZVL5",
   "containerDefinitions": [
     {
       "dnsSearchDomains": [],
@@ -58,6 +59,7 @@
   ],
   "placementConstraints": [],
   "memory": "512",
+  "taskRoleArn": "arn:aws:iam::439659027068:role/MXTASKDEFSTACK-MXTASKDEFSTACKMXFARGATETASKDEF0301T-WX2ZCSWBXC6N",
   "family": "MXTASKDEFSTACKMXTASKDEFSTACKMXFARGATETASKDEF0301E1623E21",
   "pidMode": null,
   "requiresCompatibilities": [
