@@ -37,7 +37,7 @@
       "memoryReservation": null,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "439659027068.dkr.ecr.us-east-2.amazonaws.com/mximagerepo:762191eb0f91fa580c22d45da49c2e682255bee6",
+      "image": "439659027068.dkr.ecr.us-east-2.amazonaws.com/mximagerepo:MXAPP",
       "startTimeout": null,
       "firelensConfiguration": null,
       "dependsOn": null,
