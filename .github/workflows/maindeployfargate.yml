@@ -42,7 +42,6 @@ env:
   # containerDefinitions section of your task definition
 
 jobs:
-
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
