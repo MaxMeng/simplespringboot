@@ -1,6 +1,6 @@
 {
   "ipcMode": null,
-  "executionRoleArn": "arn:aws:iam::439659027068:role/MXTASKDEFSTACK-MXTASKDEFSTACKMXFARGATETASKDEF0301E-1EXTZG2AZNEVJ",
+  "executionRoleArn": "arn:aws:iam::439659027068:role/MXTASKDEFSTACK-MXTASKDEFSTACKMXFARGATETASKDEFExecu-1M6HO6DQZHPE0",
   "containerDefinitions": [
     {
       "dnsSearchDomains": [],
@@ -59,7 +59,7 @@
   ],
   "placementConstraints": [],
   "memory": "512",
-  "taskRoleArn": "arn:aws:iam::439659027068:role/MXTASKDEFSTACK-MXTASKDEFSTACKMXFARGATETASKDEF0301T-68D63U2CFT6M",
+  "taskRoleArn": "arn:aws:iam::439659027068:role/MXTASKDEFSTACK-MXTASKDEFSTACKMXFARGATETASKDEFTaskR-N1DE4NJ63KLS",
   "family": "MXTASKDEFSTACKMXTASKDEFSTACKMXFARGATETASKDEF0301E1623E21",
   "pidMode": null,
   "requiresCompatibilities": [
