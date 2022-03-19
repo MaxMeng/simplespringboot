@@ -9,7 +9,7 @@
         "logDriver": "awslogs",
         "secretOptions": [],
         "options": {
-          "awslogs-group": "MXLOG0301",
+          "awslogs-group": "MXLOG",
           "awslogs-region": "us-east-2",
           "awslogs-stream-prefix": "MX"
         }
@@ -54,13 +54,13 @@
       "dockerLabels": {},
       "systemControls": [],
       "privileged": null,
-      "name": "MXTASKDEFSTACKMXCONTAINERDEF0301"
+      "name": "MXTASKDEFSTACKMXCONTAINERDEF"
     }
   ],
   "placementConstraints": [],
   "memory": "512",
-  "taskRoleArn": "arn:aws:iam::439659027068:role/MXTASKDEFSTACK-MXTASKDEFSTACKMXFARGATETASKDEFTaskR-N1DE4NJ63KLS",
-  "family": "MXTASKDEFSTACKMXTASKDEFSTACKMXFARGATETASKDEF0301E1623E21",
+  "taskDefinitionArn": "arn:aws:ecs:us-east-2:439659027068:task-definition/MXTASKDEFSTACKMXTASKDEFSTACKMXFARGATETASKDEF8AA016A4:1",
+  "family": "MXTASKDEFSTACKMXTASKDEFSTACKMXFARGATETASKDEF8AA016A4",
   "pidMode": null,
   "requiresCompatibilities": [
     "FARGATE"
